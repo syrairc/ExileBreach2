@@ -1,0 +1,12 @@
+bin/
+obj/
+Errors.txt
+
+# vsc
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userprefs
+
